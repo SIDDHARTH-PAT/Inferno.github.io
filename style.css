@@ -145,7 +145,7 @@ header .logo
   transform: scale(0.5);
   transition: 0.3s;
 }
-.insta {
+#insta {
   margin-left: -7px;
 }
 
